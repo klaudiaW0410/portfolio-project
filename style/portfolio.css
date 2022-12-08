@@ -41,12 +41,13 @@ h3{
     text-align: center;
     padding: 80px 20px;
     
+    
 }
 .hero p{
     font-size: 36px;
-    font-weight: bold;
     margin: 0;
     color: var(--description-color) ;
+    
     
 }
 .hero h2{
@@ -195,5 +196,15 @@ footer .email-link:hover{
         text-align: center;
         padding: 0;
     }
+    .content h2{
+    font-size: 40px;
+    line-height: 1.5;
+}
+.content h1 {
+    font-size: 54px;
+    line-height: 1.5;
+    text-align: center;
+
+}
 
 }
