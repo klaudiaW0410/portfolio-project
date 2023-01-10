@@ -183,6 +183,10 @@ footer .email-link{
 footer .email-link:hover{
     color: var(--branding-color);
 }
+footer a{
+    color:#1b4b36;
+    
+}
 
 @media (max-width: 900px) {
     h1{
